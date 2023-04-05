@@ -1,8 +1,5 @@
 print("Defensive demo ")
 
-# Numbers 
-global num1
-
 try:
   num1 = int(input("Enter the 1st number : "))
   print("This is the number", num1)
